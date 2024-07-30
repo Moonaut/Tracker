@@ -1,6 +1,9 @@
-# Blokoto Brainstorming
 
-![Blokoto Logo](/assets/blokoto.svg)
+<p align="center">
+  <img src="/assets/blokoto.svg" alt="Blokoto Logo" width="200"/>
+</p>
+
+# Blokoto Brainstorming
 
 Welcome to the Blokoto Brainstorming repository! This is the place for everyone to share their ideas, suggestions, and proposals to make our online sandbox platform even better. We value your input and encourage you to participate by sharing your thoughts on the Issues tab.
 
@@ -33,8 +36,6 @@ Your involvement doesn't end with just making suggestions. Engage with the commu
 - Commenting on and discussing other suggestions.
 - Upvoting suggestions you find valuable.
 - Providing additional insights and improvements.
-
-![Blokoto Logo](/assets/blokoto.svg)
 
 ---
 
