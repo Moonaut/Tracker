@@ -24,6 +24,7 @@ You don't need to fork the repository to make suggestions. Simply follow these s
 
 To ensure that the brainstorming process is productive and inclusive, please follow these guidelines:
 
+- Use the English language.
 - Be respectful and considerate of others' ideas.
 - Provide constructive feedback.
 - Stay on topic and relevant to the sandbox platform.
