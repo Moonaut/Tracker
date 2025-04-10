@@ -16,6 +16,9 @@ Simply follow these steps:
 3. Provide a clear and descriptive title for your bug report or suggestion.
 4. Fill in the description with as much detail as possible.
 
+## Media Uploads
+Github media size limits can be a hassle sometimes. You can use [catbox.moe](catbox.moe) to upload videos and embed the link here.
+
 ## Guidelines
 
 To ensure that the brainstorming process is productive and inclusive, please follow these guidelines:
